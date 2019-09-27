@@ -1,6 +1,6 @@
-﻿# [Eleventy Html5UP TXT](https://eleventy-html5up-txt.appseed.us)
+# [Eleventy Html5UP TXT](https://appseed.us/static-site/eleventy-html5up-txt)
 
-Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and TXT Design  
+Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and TXT Design - [Live DEMO](https://eleventy-html5up-txt.appseed.us) 
 
 - Design: [HTML5up TXT](https://html5up.net/txt)
 - [11ty](https://www.11ty.io/)
@@ -21,6 +21,7 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and TXT De
 ## App Links
 
 - [Eleventy Html5UP TXT](https://eleventy-html5up-txt.appseed.us) - Live DEMO
+- [Eleventy Html5UP TXT](https://appseed.us/static-site/eleventy-html5up-txt) - Product Info
 
 <br />
 
@@ -47,4 +48,4 @@ $ # app is running on http://localhost:4000
 <br />
 
 ---
-[Eleventy Html5UP TXT](https://eleventy-html5up-txt.appseed.us) - provided by **AppSeed**
+[Eleventy Html5UP TXT](https://appseed.us/static-site/eleventy-html5up-txt) - provided by **AppSeed**
